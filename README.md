@@ -2,7 +2,7 @@
 
 Города не чувствительны к регистру
 
-1. Получить по id - localhost:4000/geonameid/<id>
+1. Получить по id - localhost:4000/geonameid/\<id>
 2. Получить страницу - localhost:4000/page/<page>?quantity=<quantity>
 3. Сравнить два города - localhost:4000/comparison?city1=<city1>&city2=<city2>
 4. Помошь по городам - localhost:4000/help/city/<city>
