@@ -7,7 +7,7 @@
 3. Сравнить два города - localhost:4000/comparison?city1=<city1>&city2=<city2>
 4. Помошь по городам - localhost:4000/help/city/<city>
 
-# Примеры
+### Примеры
 1. localhost:4000/geonameid/451749
 2. localhost:4000/page/1?quantity=10
 3. localhost:4000/comparison?city1=znamenka&city2=zhelezovo
